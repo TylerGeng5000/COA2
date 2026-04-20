@@ -1,0 +1,24 @@
+# Local editor junk
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Course materials / PDFs (avoid committing copyrighted binaries)
+CPU/*.pdf
+
+# Vivado / Xilinx generated artifacts
+**/.Xil/
+**/*.jou
+**/*.log
+**/*.str
+**/*.cache/
+**/*.runs/
+**/*.srcs/
+**/*.sim/
+**/*.hw/
+**/*.ip_user_files/
+**/*.dcp
+**/*.rpt
+**/*.wdb
+**/*.wcfg
