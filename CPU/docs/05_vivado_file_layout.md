@@ -10,6 +10,11 @@
 - `CPU/constraints/`：Vivado 约束（`.xdc`，按板卡实际引脚补）
 - `CPU/docs/`：规格、接口、分工与课设要求清单
 
+相关接口文档：
+
+- 接口草案（简版）：`CPU/docs/02_interfaces.md`
+- 接口解释（详细版）：`CPU/docs/02_interfaces_v2.md`
+
 ## 2. 关键文件与职责（逐文件）
 
 ### 2.1 `CPU/rtl/defines.vh`
